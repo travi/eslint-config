@@ -15,6 +15,7 @@
   "author": "Matt Travi <npm@travi.org> (https://matt.travi.org/)",
   "scripts": {
     "test": "npm-run-all --print-label --parallel lint:*",
+    "lint:js": "eslint .",
     "lint:md": "remark . --frail",
     "lint:sensitive": "ban",
     "lint:travis": "travis-lint .travis.yml"
@@ -28,5 +29,8 @@
     "remark-cli": "^6.0.1",
     "remark-preset-lint-travi": "^1.2.0",
     "travis-lint": "^1.0.0"
+  },
+  "dependencies": {
+    "@form8ion/eslint-config": "1.2.0"
   }
 }
