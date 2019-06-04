@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: eslint-config
+  description: Shareable config for ESLint
+  homepage: 'https://npm.im/@travi/eslint-config'
+  private: false
