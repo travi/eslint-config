@@ -4,8 +4,8 @@ notifications:
 branches:
   except:
     - /^v\d+\.\d+\.\d+(-(alpha|beta)\.\d+(@(alpha|beta))?)?$/
-#before_script:
-#  - npm ls >/dev/null
+before_script:
+  - npm ls >/dev/null
 deploy:
   provider: script
   skip_cleanup: true
