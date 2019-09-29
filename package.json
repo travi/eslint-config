@@ -31,6 +31,6 @@
     "travis-lint": "^1.0.0"
   },
   "dependencies": {
-    "@form8ion/eslint-config": "1.6.4"
+    "@form8ion/eslint-config": "1.6.5"
   }
 }
