@@ -8,7 +8,7 @@ before_script:
   - npm ls >/dev/null
 deploy:
   provider: script
-  skip_cleanup: true
+  edge: true
   script: npx semantic-release
   'on':
     all_branches: true
