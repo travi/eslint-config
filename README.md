@@ -1,7 +1,7 @@
 # eslint-config
 
 [Shareable config](https://eslint.org/docs/developer-guide/shareable-configs)
-for [ESLint](https://eslint.org)
+for [ESLint](https://eslint.org). Extends the [form8ion config](https://github.com/form8ion/eslint-config).
 
 <!-- status badges -->
 [![Build Status][ci-badge]][ci-link]
@@ -16,6 +16,14 @@ for [ESLint](https://eslint.org)
 
 ```sh
 $ npm install @travi/eslint-config --save-dev
+```
+
+### Add to the project config
+
+Such as in an `.eslintrc.yml`
+
+```yml
+extends: '@travi'
 ```
 
 ## Contributing
