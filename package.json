@@ -29,6 +29,6 @@
     "remark-preset-lint-travi": "2.0.8"
   },
   "dependencies": {
-    "@form8ion/eslint-config": "1.8.5"
+    "@form8ion/eslint-config": "1.8.6"
   }
 }
