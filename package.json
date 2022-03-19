@@ -20,7 +20,7 @@
     "lint:sensitive": "ban"
   },
   "devDependencies": {
-    "ban-sensitive-files": "1.9.17",
+    "ban-sensitive-files": "1.9.18",
     "commitlint-config-travi": "1.4.10",
     "cz-conventional-changelog": "3.3.0",
     "husky": "7.0.4",
