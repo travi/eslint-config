@@ -15,6 +15,7 @@ for [ESLint](https://eslint.org). Extends the [form8ion config](https://github.c
 
 [![npm][npm-badge]][npm-link]
 [![MIT license][license-badge]][license-link]
+![node][node-badge]
 
 <!--consumer-badges end -->
 
@@ -88,3 +89,5 @@ $ npm test
 [github-actions-ci-link]: https://github.com/travi/eslint-config/actions?query=workflow%3A%22Node.js+CI%22+branch%3Amaster
 
 [github-actions-ci-badge]: https://github.com/travi/eslint-config/workflows/Node.js%20CI/badge.svg
+
+[node-badge]: https://img.shields.io/node/v/@travi/eslint-config?logo=node.js
