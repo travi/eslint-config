@@ -17,7 +17,8 @@
     "test": "npm-run-all --print-label --parallel lint:*",
     "lint:js": "eslint .",
     "lint:md": "remark . --frail",
-    "lint:sensitive": "ban"
+    "lint:sensitive": "ban",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "ban-sensitive-files": "1.9.18",
