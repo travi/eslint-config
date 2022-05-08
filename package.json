@@ -4,7 +4,7 @@
   "license": "MIT",
   "version": "0.0.0-semantically-released",
   "engines": {
-    "node": "^14.15.0 || >=16"
+    "node": "^14.17.0 || >=16"
   },
   "files": [
     "index.js"
@@ -35,6 +35,6 @@
     "remark-preset-lint-travi": "3.0.0"
   },
   "dependencies": {
-    "@form8ion/eslint-config": "4.0.0"
+    "@form8ion/eslint-config": "5.0.2"
   }
 }
