@@ -6,16 +6,10 @@
   "engines": {
     "node": "^14.17.0 || >=16"
   },
-  "files": [
-    "index.js"
-  ],
-  "publishConfig": {
-    "access": "public"
-  },
+  "author": "Matt Travi <npm@travi.org> (https://matt.travi.org/)",
   "repository": "travi/eslint-config",
   "bugs": "https://github.com/travi/eslint-config/issues",
   "homepage": "https://npm.im/@travi/eslint-config",
-  "author": "Matt Travi <npm@travi.org> (https://matt.travi.org/)",
   "scripts": {
     "test": "npm-run-all --print-label --parallel lint:*",
     "lint:js": "eslint .",
@@ -23,6 +17,15 @@
     "lint:sensitive": "ban",
     "prepare": "husky install",
     "lint:engines": "ls-engines"
+  },
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@form8ion/eslint-config": "5.0.14"
   },
   "devDependencies": {
     "ban-sensitive-files": "1.9.18",
@@ -33,8 +36,5 @@
     "npm-run-all": "4.1.5",
     "remark-cli": "11.0.0",
     "remark-preset-lint-travi": "4.0.2"
-  },
-  "dependencies": {
-    "@form8ion/eslint-config": "5.0.14"
   }
 }
