@@ -28,7 +28,7 @@
     "@form8ion/eslint-config": "5.0.28"
   },
   "devDependencies": {
-    "ban-sensitive-files": "1.9.18",
+    "ban-sensitive-files": "1.9.19",
     "commitlint-config-travi": "1.4.27",
     "cz-conventional-changelog": "3.3.0",
     "husky": "8.0.3",
