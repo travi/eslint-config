@@ -25,7 +25,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@form8ion/eslint-config": "5.0.28"
+    "@form8ion/eslint-config": "5.0.29"
   },
   "devDependencies": {
     "ban-sensitive-files": "1.9.19",
