@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "ban-sensitive-files": "1.9.19",
-    "commitlint-config-travi": "1.4.32",
+    "commitlint-config-travi": "1.4.33",
     "cz-conventional-changelog": "3.3.0",
     "husky": "8.0.3",
     "ls-engines": "0.9.0",
