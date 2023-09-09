@@ -27,7 +27,7 @@
     "provenance": true
   },
   "dependencies": {
-    "@form8ion/eslint-config": "6.0.3"
+    "@form8ion/eslint-config": "6.0.4"
   },
   "devDependencies": {
     "ban-sensitive-files": "1.10.0",
