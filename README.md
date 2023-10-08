@@ -61,7 +61,7 @@ $ npm test
 
 [npm-link]: https://www.npmjs.com/package/@travi/eslint-config
 
-[npm-badge]: https://img.shields.io/npm/v/@travi/eslint-config.svg
+[npm-badge]: https://img.shields.io/npm/v/@travi/eslint-config?logo=npm
 
 [license-link]: LICENSE
 
