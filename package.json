@@ -34,7 +34,7 @@
     "commitlint-config-travi": "1.4.42",
     "cz-conventional-changelog": "3.3.0",
     "husky": "8.0.3",
-    "ls-engines": "0.9.0",
+    "ls-engines": "0.9.1",
     "npm-run-all2": "6.1.1",
     "publint": "0.2.5",
     "remark-cli": "12.0.0",
